@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="905">
+<img src="https://github.com/SamuelHiroyuki/SamuelHiroyuki/blob/master/assets/banner.png" width="905">
 
 <!--
 **SamuelHiroyuki/SamuelHiroyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
