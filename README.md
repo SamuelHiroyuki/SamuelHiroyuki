@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-React-2AC7E3?logo=react&style=flat-square&labelColor=2AC7E3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-React Native-5667F9?logo=react&style=flat-square&labelColor=5667F9&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-%20%23-3A0090?logo=c&style=flat-square&labelColor=9A6AD5&logoColor=ffffff"" />
-  <img src="https://img.shields.io/badge/-TypeScript-0288D1?logo=typescript&style=flat-square&labelColor=0288D1" />
+  <img src="https://img.shields.io/badge/-TypeScript-0288D1?logo=typescript&style=flat-square&labelColor=0288D1&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-SQL Server-9BA5AF?style=flat-square&logo=microsoft-sql-server&labelColor=ffffff&logoColor=B01E2C" />
