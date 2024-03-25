@@ -1,5 +1,3 @@
-<img src="https://github.com/SamuelHiroyuki/SamuelHiroyuki/blob/master/assets/banner.png" width="905">
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F0DC4E?logo=javascript&style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/-NodeJS-8CC84B?logo=node.js&style=flat-square&labelColor=ffffff" />
